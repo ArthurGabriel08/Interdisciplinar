@@ -1,4 +1,4 @@
-#  HBSaúde — Sistema de Agendamento de Consultas Médicas
+#  Sistema de Agendamento de Consultas Médicas
 
 ---
 
