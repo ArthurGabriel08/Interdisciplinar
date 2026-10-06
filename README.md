@@ -8,6 +8,8 @@ Desenvolvemos um site de agendamento de consultas médicas para o hospital HBSa�
 
 O sistema foi desenvolvido com foco na **segurança dos dados**, garantindo que todas as informações pessoais dos usuários sejam protegidas conforme a **Lei Geral de Proteção de Dados (LGPD)**.
 
+**Projeto ainda não finalizado, integração do banco com o front, e o back necessários**
+
 ---
 
 ##  Identidade Visual
@@ -28,6 +30,6 @@ As cores e a estética do site seguem a identidade visual do próprio hospital, 
 
 ##  Informações Acadêmicas
 
-**Curso:** Informática para Negócios — 3° Semestre  
+**Curso:** Informática para Negócios — 4° Semestre  
 **Instituição:** FATEC  
-**Período:** 1° Semestre de 2026
+**Período:** 2° Semestre de 2026
