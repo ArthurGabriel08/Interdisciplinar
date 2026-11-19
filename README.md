@@ -1,10 +1,10 @@
-# Sistema de Agendamento de Consultas Médicas — HBSaúde
+# Sistema de Agendamento de Consultas Médicas — Hospital Beneficência Portuguesa
 
 ---
 
 ## O que é o projeto?
 
-Desenvolvemos um sistema web completo de agendamento de consultas médicas para o **Hospital Beneficência Portuguesa de São José do Rio Preto (HBSaúde)**. O objetivo é permitir que os pacientes agendem, acompanhem e realizem o pagamento de suas consultas de forma simples e rápida, sem precisar sair de casa ou ir pessoalmente ao hospital.
+Desenvolvemos um sistema web completo de agendamento de consultas médicas para o **Hospital Beneficência Portuguesa de São José do Rio Preto**. O objetivo é permitir que os pacientes agendem, acompanhem e realizem o pagamento de suas consultas de forma simples e rápida, sem precisar sair de casa ou ir pessoalmente ao hospital.
 
 O sistema conta com **integração completa entre Front-end, Back-end (Java / Spring Boot) e Banco de Dados (Microsoft SQL Server)**, além de ter sido desenvolvido com foco na **segurança dos dados**, protegendo as informações pessoais dos usuários conforme a **Lei Geral de Proteção de Dados (LGPD)** — utilizando criptografia de senhas com **BCrypt**, autenticação via tokens assinados (**HMAC-SHA256**) e controle de acesso por perfil (`ADMIN`, `MEDICO` e `PACIENTE`).
 
@@ -30,13 +30,13 @@ O sistema conta com **integração completa entre Front-end, Back-end (Java / Sp
 
 ## Identidade Visual
 
-As cores e a estética do site seguem a identidade visual do **Hospital Beneficência Portuguesa** (vermelho institucional `#C41E24`, verde `#2D8C3C` e fundo claro `#F8FAFC`), garantindo que a experiência online seja consistente com a instituição.
+As cores e a estética do site seguem a identidade visual do próprio **Hospital Beneficência Portuguesa** (vermelho institucional `#C41E24`, verde `#2D8C3C` e fundo claro `#F8FAFC`), garantindo que a experiência online seja consistente com a instituição.
 
 ---
 
 ## Equipe — The midnight boys
 
-* Arthur Gabriel de Mendonça *(Líder)*
+* Arthur Gabriel de Mendonça
 * Leonardo Francisco Gaitan Juliano
 * Vitor Henrique Pereira de Lima
 * Lucas Ricardo de Jesus Rodrigues
